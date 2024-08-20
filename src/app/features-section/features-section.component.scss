@@ -1,0 +1,21 @@
+.features-section {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px 20px;
+  background-color: #fff;
+}
+
+.feature {
+  text-align: center;
+  max-width: 200px;
+}
+
+.feature i {
+  font-size: 3em;
+  color: #007bff;
+}
+
+h3 {
+  font-size: 1.5em;
+  margin: 10px 0;
+}

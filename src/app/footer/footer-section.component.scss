@@ -1,0 +1,31 @@
+.footer {
+  padding: 20px;
+  background-color: #333;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer a {
+  color: #ccc;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.newsletter-signup input {
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.newsletter-signup button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}

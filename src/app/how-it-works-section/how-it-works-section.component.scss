@@ -1,0 +1,25 @@
+.how-it-works-section {
+  padding: 50px 20px;
+  text-align: center;
+  background-color: #eef;
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.steps {
+  display: flex;
+  justify-content: space-around;
+}
+
+.step {
+  text-align: center;
+  max-width: 150px;
+}
+
+.step i {
+  font-size: 2.5em;
+  color: #007bff;
+}
